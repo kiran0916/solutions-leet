@@ -1,0 +1,15 @@
+C:\Users\Optimal Systems\Documents\GitHub\solutions-leet\bin\Debug\net6.0\solutions-leet.exe
+C:\Users\Optimal Systems\Documents\GitHub\solutions-leet\bin\Debug\net6.0\solutions-leet.deps.json
+C:\Users\Optimal Systems\Documents\GitHub\solutions-leet\bin\Debug\net6.0\solutions-leet.runtimeconfig.json
+C:\Users\Optimal Systems\Documents\GitHub\solutions-leet\bin\Debug\net6.0\solutions-leet.dll
+C:\Users\Optimal Systems\Documents\GitHub\solutions-leet\bin\Debug\net6.0\ref\solutions-leet.dll
+C:\Users\Optimal Systems\Documents\GitHub\solutions-leet\bin\Debug\net6.0\solutions-leet.pdb
+C:\Users\Optimal Systems\Documents\GitHub\solutions-leet\obj\Debug\net6.0\solutions-leet.csproj.AssemblyReference.cache
+C:\Users\Optimal Systems\Documents\GitHub\solutions-leet\obj\Debug\net6.0\solutions-leet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Optimal Systems\Documents\GitHub\solutions-leet\obj\Debug\net6.0\solutions-leet.AssemblyInfoInputs.cache
+C:\Users\Optimal Systems\Documents\GitHub\solutions-leet\obj\Debug\net6.0\solutions-leet.AssemblyInfo.cs
+C:\Users\Optimal Systems\Documents\GitHub\solutions-leet\obj\Debug\net6.0\solutions-leet.csproj.CoreCompileInputs.cache
+C:\Users\Optimal Systems\Documents\GitHub\solutions-leet\obj\Debug\net6.0\solutions-leet.dll
+C:\Users\Optimal Systems\Documents\GitHub\solutions-leet\obj\Debug\net6.0\ref\solutions-leet.dll
+C:\Users\Optimal Systems\Documents\GitHub\solutions-leet\obj\Debug\net6.0\solutions-leet.pdb
+C:\Users\Optimal Systems\Documents\GitHub\solutions-leet\obj\Debug\net6.0\solutions-leet.genruntimeconfig.cache
